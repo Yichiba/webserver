@@ -1,5 +1,5 @@
 ## Webserv
-Webserv is a custom HTTP server implementation written in C/C++ that supports HTTP/1.1. The purpose of this project is to gain a better understanding of how web servers work and to be able to test it with an actual web browser. The project was completed with the help of a teammate, the one and only <a href="https://github.com/AMAZZAL-AMINE">AMAZZAL AMINE</a>
+Webserv is a custom HTTP server implementation written in C/C++ that supports HTTP/1.1. The purpose of this project is to gain a better understanding of how web servers work and to be able to test it with an actual web browser. The project was completed with the help of a teammates,  <a href="https://github.com/AMAZZAL-AMINE">AMAZZAL AMINE</a>  and <a href="https://github.com/rouali98"> OUALI RIDA</a>
 <br>
 
 General Information
